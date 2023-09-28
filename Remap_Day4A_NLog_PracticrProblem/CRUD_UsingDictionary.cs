@@ -18,19 +18,22 @@ namespace Remap_Day4A_NLog_PracticrProblem
             string val = Console.ReadLine();
             dict.Add(500, val);
             Console.WriteLine();
+
             //Read operation
             foreach (int key in dict.Keys)
             {
                 Console.WriteLine(dict[key]);
             }
             Console.WriteLine();
+
             //Update operation
-            dict[300] = "shoaib";
-            dict[500] = "shaik";
+            dict[300] = "twiney";
+            dict[500] = "rajesh";
             foreach (int key in dict.Keys)
             {
                 Console.WriteLine(dict[key]);
             }
+            Console.WriteLine();
 
             //Delite operation
             dict.Remove(500);
