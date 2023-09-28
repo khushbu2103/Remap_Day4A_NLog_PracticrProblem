@@ -1,0 +1,5 @@
+﻿2023-09-27 16:36:41.3403 ERROR It should not be negative number
+2023-09-27 16:38:00.2588 ERROR It should not be negative number
+2023-09-27 16:38:38.7129 ERROR It should not be negative number
+2023-09-27 16:40:29.2491 ERROR It should not be negative number
+2023-09-28 21:58:02.5195 INFO Sum operation successful :10
